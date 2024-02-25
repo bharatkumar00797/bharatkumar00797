@@ -1,5 +1,5 @@
 👋 Hi, I’m @bharatkumar00797
-👀 I’m interested in creating scalable and user-centric web applications.
+👀 I’m interested in creating scalable and user-centric web applications.           
 🌱 I’m currently learning React.js to enhance my front-end development skills.
 💞️ I’m looking to collaborate on projects that push boundaries and make a positive impact.
 📫 How to reach me: Connect with me on LinkedIn or email me at ChandvaniBharat@gmail.com
