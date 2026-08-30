@@ -1,8 +1,7 @@
 ### Hi there, I'm BharatKumar 👋
  
 ## About Me
-- 👀 I’m interested in creating scalable and user-centric web applications alongside AWS Development.
-- 🌱 I’m currently learning React.js to enhance my Full Stack development skills.
+- 👀Aspiring AI engineer. Learning consistently, building projects, and working toward remote opportunities in the field.
 - 💞️ I’m looking to collaborate on projects that push boundaries and make a positive impact.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new technologies and finding creative solutions to complex problems.
